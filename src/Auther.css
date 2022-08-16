@@ -1,0 +1,33 @@
+*{
+margin: 0;
+padding: 0;
+
+
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    color: orangered;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ .image{
+         display:block;
+         margin: 1rem  auto;
+         width: 70rem;      
+       
+ }
+ .secondheading{
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+    color: rgb(243, 65, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .line hr{
+      display: block;
+      margin: 0  auto;
+      background-color: rgb(87, 81, 81);
+       width: 20rem;
+       height: 3px;
+
+ }

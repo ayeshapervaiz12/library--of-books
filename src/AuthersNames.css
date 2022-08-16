@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.authersname{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+}
+
+.Names{
+    margin: 1rem;
+    height: 100%;
+    width: 300px;
+    background-color: rgb(221, 235, 235);
+    border: 1px solid rgb(247, 86, 57);
+    padding: 1rem;
+    border-radius: 1rem;
+  
+}
+.Names a {
+    display: flex;
+    justify-content: center;
+    color: blue;
+    text-decoration: none;
+   
+}
